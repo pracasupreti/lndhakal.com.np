@@ -1,0 +1,13 @@
+[19-Aug-2021 10:47:57 UTC] wp_auto_login: trying to login user_id==1 loginusername=lekhu@lndhakal.com.np to admin_url=https://lndhakal.com.np/blog/wp-admin/
+[19-Aug-2021 12:10:50 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[19-Aug-2021 12:12:21 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[19-Aug-2021 12:12:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, bool given in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/plugins/booster-extension/inc/backend/comment.php on line 38
+[19-Aug-2021 12:12:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/plugins/booster-extension/inc/backend/comment.php:38) in /home/customer/www/lndhakal.com.np/public_html/blog/wp-includes/comment.php on line 595
+[19-Aug-2021 12:13:32 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[19-Aug-2021 12:14:06 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[19-Aug-2021 12:14:52 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[24-Aug-2021 06:34:02 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[24-Aug-2021 06:44:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[24-Aug-2021 06:48:59 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[24-Aug-2021 08:06:17 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
+[24-Aug-2021 08:07:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home/customer/www/lndhakal.com.np/public_html/blog/wp-content/themes/blog-prime/inc/breadcrumbs.php on line 259
